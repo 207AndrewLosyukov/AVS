@@ -1,0 +1,3 @@
+C:/Users/Predator/CLionProjects/AVS/cmake-build-debug/CMakeFiles/AVS.dir
+C:/Users/Predator/CLionProjects/AVS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Predator/CLionProjects/AVS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,53 @@
+Filled container:
+Container contains 9 elements.
+1: Rectangle:
+	point1: 113 311
+	point2: 94 130
+	Square = 3439.000000
+	Color: YELLOW
+2: Triangle:
+	point1 (a) = 53 2,
+	point2 (b) = 23 45,
+	point3 (c) = 46 64,
+	Square = 780.000000
+	Color: ORANGE
+3: Circle:
+	x = 12,
+	y = 21,
+	r = 348,
+	Square = 380459.357568
+	Color: GREEN
+4: Rectangle:
+	point1: 11 121
+	point2: 9 30
+	Square = 182.000000
+	Color: BLUE
+5: Triangle:
+	point1 (a) = 531 32,
+	point2 (b) = 223 445,
+	point3 (c) = 416 614,
+	Square = 65881.000000
+	Color: PURPLE
+6: Circle:
+	x = 1,
+	y = 21,
+	r = 38,
+	Square = 4536.458848
+	Color: ORANGE
+7: Rectangle:
+	point1: 11 11
+	point2: 4 30
+	Square = 133.000000
+	Color: YELLOW
+8: Triangle:
+	point1 (a) = 543 32,
+	point2 (b) = 253 425,
+	point3 (c) = 436 164,
+	Square = 1886.000000
+	Color: RED
+9: Circle:
+	x = 124,
+	y = 13,
+	r = 408,
+	Square = 522961.970688
+	Color: LIGHTBLUE

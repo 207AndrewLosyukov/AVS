@@ -1,0 +1,15 @@
+Square average = 108917.643012
+Changed container:
+Container contains 2 elements.
+1: Circle:
+	x = 12,
+	y = 21,
+	r = 348,
+	Square = 380459.357568
+	Color: GREEN
+2: Circle:
+	x = 124,
+	y = 13,
+	r = 408,
+	Square = 522961.970688
+	Color: LIGHTBLUE
