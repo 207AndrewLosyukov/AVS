@@ -1,0 +1,67 @@
+	Before container function
+-----------------
+Container consist of 9 shapes:
+Rectangle:
+	color - YELLOW
+	firstPoint = 113 311
+	secondPoint = 94 130
+Square = 3439
+Triangle:
+	color - ORANGE
+	a = 53 2
+	b = 23 45
+	c = 46 64
+Square = 780.0
+Circle:
+	color - GREEN
+	center = 12 21
+	r = 348
+Square = 380459.4367203383
+Rectangle:
+	color - BLUE
+	firstPoint = 11 121
+	secondPoint = 9 30
+Square = 182
+Triangle:
+	color - PURPLE
+	a = 531 32
+	b = 223 445
+	c = 416 614
+Square = 65881.0
+Circle:
+	color - ORANGE
+	center = 1 21
+	r = 38
+Square = 4536.459791783661
+Rectangle:
+	color - YELLOW
+	firstPoint = 11 11
+	secondPoint = 4 30
+Square = 133
+Triangle:
+	color - RED
+	a = 543 32
+	b = 253 425
+	c = 436 164
+Square = 1886.0
+Circle:
+	color - LIGHTBLUE
+	center = 124 13
+	r = 408
+Square = 522962.0794871713
+Average square: 108917.66399992147
+-----------------
+
+After container function
+-----------------Container consist of 2 shapes:
+Circle:
+	color - GREEN
+	center = 12 21
+	r = 348
+Square = 380459.4367203383
+Circle:
+	color - LIGHTBLUE
+	center = 124 13
+	r = 408
+Square = 522962.0794871713
+-----------------
